@@ -1,7 +1,6 @@
 # CSE4334TermProject
 
 **Summary**
-
 This project is a basic music recommender system used to practice the concepts of data mining.  A basic text search feature is implemented using a Support Vector Machine, Genre classification is done by Naive Bayes classification, and music artist recommendation is done by item-based recommendation.  The user is able to enter a text query into the app which is sent to the server, hosted by pythonanywere, to be worked on.
 
 **Deployment**
@@ -31,3 +30,4 @@ https://github.com/mnielsen/VSM/blob/master/vsm.py
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
 https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
 https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
+https://github.com/BhaskarTrivedi/QuerySearch_Recommentation_Classification
